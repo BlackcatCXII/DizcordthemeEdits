@@ -17,10 +17,10 @@
   --accent-hue: 214;
   --accent-saturation: 51%;
   --accent-brightness: 17%;
-  --gradient-toggle: 0;
-  --gradient-hue-shift: 0.2;
-  --gradient-saturation: 50%;
-  --gradient-deg: 179.52deg;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0;
+  --gradient-saturation: 16%;
+  --gradient-deg: 149deg;
   --customFont: Segoe UI;
 }
 
